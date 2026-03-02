@@ -1,0 +1,5 @@
+Calibration values for participant: test_feb99
+Date: 09-Feb-2026 10:35:47
+
+Red dots:   [1.000 0.550 0.550]
+Green dots: [0.400 0.900 0.000]

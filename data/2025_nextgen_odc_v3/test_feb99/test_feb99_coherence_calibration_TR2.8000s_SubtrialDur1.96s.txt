@@ -1,0 +1,6 @@
+Coherence calibration values for participant: test_feb99
+Date: 09-Feb-2026 10:38:30
+
+TR: 2.8000 s
+Subtrial Duration: 1.96 s
+Single task coherence: 0.2048
